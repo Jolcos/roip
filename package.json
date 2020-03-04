@@ -1,0 +1,22 @@
+{
+  "name": "roip",
+  "version": "1.0.0",
+  "description": "A fast to check if a request is from Roblox",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jolcos/roip.git"
+  },
+  "author": "Jolcos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jolcos/roip/issues"
+  },
+  "homepage": "https://github.com/Jolcos/roip#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
